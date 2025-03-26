@@ -1,0 +1,10 @@
+#Backend Git Ignore
+/backend-portofolio/node_modules
+/backend-portofolio/package-lock.json
+/backend-portofolio/package.json
+
+#Frontend Git Ignore
+/frontend-portofolio/node_modules
+/frontend-portofolio/package-lock.json
+/frontend-portofolio/package.json
+
